@@ -1,0 +1,12 @@
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\bin\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.deps.json
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\bin\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.dll
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\obj\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.csprojAssemblyReference.cache
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\obj\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.csproj.CoreCompileInputs.cache
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\obj\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.AssemblyInfoInputs.cache
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\obj\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.AssemblyInfo.cs
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\bin\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.pdb
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\obj\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.dll
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\obj\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.pdb
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystemProviders\obj\Debug\netcoreapp2.1\MedicalTrackingSystemProviders.csproj.CopyComplete

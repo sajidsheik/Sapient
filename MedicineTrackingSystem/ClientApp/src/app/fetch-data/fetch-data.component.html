@@ -1,0 +1,39 @@
+<h1>Medicines</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<p *ngIf="!forecasts"><em>Loading...</em></p>
+
+<table class='table' *ngIf="forecasts">
+  <thead>
+    <tr>
+      <th>Medicine Name</th>
+      <th>Brand. (C)</th>
+      <th>Price. (F)</th>
+      <th>Quantity</th>
+      <th>ExpirayDate. (F)</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let forecast of forecasts">
+      <td>{{ forecast.medicineName }}</td>
+      <td>{{ forecast.brand }}</td>
+      <td>{{ forecast.price }}</td>
+      <td>{{ forecast.quantity }}</td>
+      <td>{{ forecast.expirayDate | date }}</td>
+      <td>{{ forecast.notes }}</td>
+    </tr>
+  </tbody>
+</table>
+
+Search Medicine:<input type="text" [(name)]="medicineName"/>
+<input type="submit" (click)="handleSearch()">
+<pre>
+{{forecast[0].brand}}
+{{forecast[0].expirayDate}}
+{{forecast[0].medicineName}}
+{{forecast[0].notes}}
+{{forecast[0].price}}
+{{forecast[0].quantity}}
+</pre>

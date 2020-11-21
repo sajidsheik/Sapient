@@ -1,0 +1,14 @@
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\bin\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.deps.json
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\bin\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.runtimeconfig.json
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\bin\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.runtimeconfig.dev.json
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\bin\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.dll
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\bin\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.pdb
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\obj\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.csprojAssemblyReference.cache
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\obj\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.csproj.CoreCompileInputs.cache
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\obj\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.AssemblyInfoInputs.cache
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\obj\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.AssemblyInfo.cs
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\obj\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.dll
+C:\Users\sajid shaik\source\repos\Exampletest\MedicalTrackingSystem.ProviderTests\obj\Debug\netcoreapp2.1\MedicalTrackingSystem.ProviderTests.pdb
